@@ -1,0 +1,17 @@
+.github__users {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.user img {
+  width: 100px;
+  border-radius: 50%;
+}
